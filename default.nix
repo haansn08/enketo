@@ -1,2 +1,2 @@
 let pkgs = import <nixpkgs> {};
-in pkgs.callPackage ./derivation.nix {}
+in pkgs.callPackage ./enketo2.nix {}
